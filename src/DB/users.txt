@@ -1,0 +1,5 @@
+
+{"id":0,"name":"Jenya","email":"senkojenya@gmail.com","password":"1234"}
+{"id":1,"name":"Oleg","email":"senkooleg@gmail.com","password":"12345"}
+{"id":2,"name":"Nata","email":"senkonata@gmail.com","password":"1234"}
+{"id":3,"name":"Dima","email":"senkodima@gmail.com","password":"1234"}
