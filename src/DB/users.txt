@@ -1,5 +1,4 @@
 
-{"id":0,"name":"Jenya","email":"senkojenya@gmail.com","password":"1234"}
-{"id":1,"name":"Oleg","email":"senkooleg@gmail.com","password":"12345"}
-{"id":2,"name":"Nata","email":"senkonata@gmail.com","password":"1234"}
-{"id":3,"name":"Dima","email":"senkodima@gmail.com","password":"1234"}
+{"id":"402c809a-415b-445e-a3d7-53ce528636d3","name":"Dimaaa","email":"senkodimaaa@gmail.com","password":"$2a$12$7hCGmH0JfzQePxeUpW8XP.jwGeAuelymNc5X4zCiN3S5fENDrw5nq"}
+{"id":"895fb93d-062d-471e-b606-811416c420c5","name":"Dimaaaa","email":"senkodimaaaa@gmail.com","password":"$2a$12$JQr8W/4Wp6T/VZC3WGfBwuWiI8/dAdILEI8UQBiBeKd2Ja2moNisG"}
+{"id":"3ef46676-b0b0-4349-a745-75e264720ba0","name":"Dimaaaa","email":"senkodimaaaas@gmail.com","password":"$2a$12$K7ieMIUqcDXNqw0xGYafQeyZdAf6zAR8apyFGAARz3w/azcYy68zK"}

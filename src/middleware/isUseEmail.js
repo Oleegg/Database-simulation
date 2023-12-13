@@ -13,7 +13,7 @@ module.exports = isUseEmail = (req, res, next) => {
     const emailList = line.map((user) => user.email);
 
     if (emailList.includes(email)) {
-      res.end("email is using");
+      res.status(400).json({ message: "email is using" });
     } else {
       next();
     }
